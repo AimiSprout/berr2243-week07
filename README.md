@@ -75,7 +75,7 @@ multiple sample document being inserted by using the script or manually inserted
 mongod
 Check connection URL in index.js (default: mongodb://localhost:27017)
 ```
-
+```bash
 ## Project Structure
 ├── data/
 │ └── sample_bookings_and_classes.js # Sample insert scripts
@@ -86,6 +86,7 @@ Check connection URL in index.js (default: mongodb://localhost:27017)
 ├── app.js # Express app entry point
 ├── README.md 
 └── package.json
+```
 
  ## License
 This project is for educational purposes only
